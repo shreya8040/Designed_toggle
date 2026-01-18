@@ -7,4 +7,5 @@ _To understand the basics of HTML, CSS and JS by implimenting a simple darkmode 
 
 `Sample:`
 
-<img width="340" height="270" alt="image" src="https://github.com/user-attachments/assets/d927df1b-67bf-42ed-997e-639365d84817" />              <img width="340" height="2700" alt="image" src="https://github.com/user-attachments/assets/7dcb0d15-38d0-4e8c-b7ec-4e79fbcea5c9" />
+![toggle](https://github.com/user-attachments/assets/3ff79675-c47b-4402-be08-48680950318f)
+
