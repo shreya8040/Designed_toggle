@@ -1,7 +1,7 @@
 **Project type** : `Personal`
 
 Goal:
-_To understand the basics of HTML, CSS and JS by impimenting a simple darkmode toggle_
+_To understand the basics of HTML, CSS and JS by implimenting a simple darkmode toggle_
 
 ● Implemented the toggle with the toggle body containing illustrations to represent the current mode
 
